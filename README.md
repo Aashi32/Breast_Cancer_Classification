@@ -1,6 +1,6 @@
-## Breast_Cancer_Classification
+# Breast_Cancer_Classification
 
-# Algorithm Used:
+## Algorithm Used:
 K-Nearest Neighbors (KNN), Random Forest Classifier, Linear Regression, Decision Tree Classifier, Logistic Regression
-# Description: 
+## Description: 
 Classify breast cancer tumors as malignant or benign using features extracted from mammograms.
